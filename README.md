@@ -179,8 +179,6 @@ Use these files to complete the implementation:
 <div style="background-color: #2d87bb; width: 150px; padding: 10px; color: black">Hex: #2d87bb</div>
 <div style="background-color: #a3df9f; width: 150px; padding: 10px; color: black">Hex: #a3df9f</div>
 <div style="background-color: #64c2a6; width: 150px; padding: 10px; color: black">Hex: #64c2a6</div>
-<div style="background-color: #94a3b8; width: 150px; padding: 10px; color: black">Hex: #94a3b8</div>
-<div style="background-color: #f54394; width: 150px; padding: 10px; color: black">Hex: #f54394</div>
 
 </details>
 
