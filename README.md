@@ -110,22 +110,6 @@ Returns a response containing the list of Products
 
 </details>
 
-<details>
-<summary>Implementation Files</summary>
-<br/>
-
-Use these files to complete the implementation:
-
-- `src/components/CowinDashboard/index.js`
-- `src/components/CowinDashboard/index.css`
-- `src/components/VaccinationCoverage/index.js`
-- `src/components/VaccinationCoverage/index.css`
-- `src/components/VaccinationByGender/index.js`
-- `src/components/VaccinationByGender/index.css`
-- `src/components/VaccinationByAge/index.js`
-- `src/components/VaccinationByAge/index.css`
-
-</details>
 
 ### Important Note
 
