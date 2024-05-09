@@ -111,35 +111,6 @@ Returns a response containing the list of Products
 </details>
 
 
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- Wrap the Loader component with an HTML container element and add the `data-testid` attribute value as `loader` to it
-
-  ```jsx
-  <div data-testid="loader">
-    <Loader type="ThreeDots" color="#ffffff" height={80} width={80} />
-  </div>
-  ```
-
-- Provide `width` and `height` to the respective chart component to make the charts visible on the page <br> For example:
-
-  ```jsx
-  <BarChart width={1000} height={300} />
-  ```
-
-  - Provide `width` and `height` as **number**
-
-  - Achieve this CoWIN Dashboard on desktop devices. You can try different charts provided by the `recharts` package with customized data
-
-</details>
-
 ### Resources
 
 <details>
