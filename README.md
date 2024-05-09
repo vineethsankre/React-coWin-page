@@ -171,7 +171,6 @@ Use these files to complete the implementation:
 
 <br/>
 
-<div style="background-color: #161625; width: 150px; padding: 10px; color: white">Hex: #161625</div>
 
 </details>
 
