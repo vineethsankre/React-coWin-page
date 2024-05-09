@@ -177,7 +177,6 @@ Use these files to complete the implementation:
 <div style="background-color: #ffffff; width: 150px; padding: 10px; color: black">Hex: #ffffff</div>
 <div style="background-color: #1c1c2b; width: 150px; padding: 10px; color: white">Hex: #1c1c2b</div>
 <div style="background-color: #2d87bb; width: 150px; padding: 10px; color: black">Hex: #2d87bb</div>
-<div style="background-color: #a3df9f; width: 150px; padding: 10px; color: black">Hex: #a3df9f</div>
 
 </details>
 
